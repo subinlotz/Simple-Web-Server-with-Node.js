@@ -23,3 +23,7 @@ The HTML files include a <link> tag pointing to the CSS file, allowing the serve
 Default Response for Unmatched Routes:
 
 If the requested URL does not match any predefined route, the server responds with a 404 Page Not Found error.
+
+![Screenshot (306)](https://github.com/user-attachments/assets/a7123d4e-613c-4d38-90f4-e2834f33481d)
+![Screenshot (305)](https://github.com/user-attachments/assets/81710602-eca6-49cd-960f-3db72cccc2e0)
+![Screenshot (304)](https://github.com/user-attachments/assets/3118b662-2e91-4ad3-92c2-b352cfec327f)
