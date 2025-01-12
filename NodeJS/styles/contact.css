@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+}
